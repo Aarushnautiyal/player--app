@@ -1,0 +1,11 @@
+.nav{
+    width: 100vw;
+    padding: 1rem;
+    text-align: center;
+    background: whitesmoke;
+    box-shadow: 0 6px 1rem rgba(48, 47, 47, 0.529);
+    font-size: larger;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px rgb(181, 172, 172);
+}
